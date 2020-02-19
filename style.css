@@ -1,0 +1,23 @@
+body
+        {
+            background-color: black;
+            color:rgb(116, 231, 164);
+            text-align: center;
+        }
+        h1{
+           color: white;
+        }
+        .image
+        {
+            width: 500px;
+            height: 400px;
+            padding-top:100px;
+            padding-bottom:100px;
+        }
+        .b1{
+            color:black;
+            background-color:blue;
+        }
+        .b1:hover{
+            cursor: pointer;
+        }
